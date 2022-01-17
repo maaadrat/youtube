@@ -1,0 +1,14 @@
+.button {
+	font-weight: 700;
+  	color: gray;
+  	text-decoration: none;
+	border-radius: 6px;
+	background: red;
+  	transition: 0.2s;
+} 
+.button:hover { 
+	background: red
+}
+.button:active {
+  	background: red;
+}
